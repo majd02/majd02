@@ -1,13 +1,15 @@
  
   
 
-### <div align="center">I'm Majd Idani 👋 Software Engineer </div>  
+### <div align="center"> Hi 👋  I'm Majd Idani 👋 </div>  
   
 
-## <div align="center"> Software Engineer </div>  
+## <div align="center">  Software Engineer </div>  
   
 
-### <div align="center"> Full-Stack Developer  </div>  
+### <div align="center">  & </div>  
+
+### <div align="center">  Full-Stack Developer  </div>  
   
 
 <div align="center">  
