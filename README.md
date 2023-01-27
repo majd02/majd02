@@ -111,7 +111,7 @@
 ## Github Stats   
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hazembensaid07&show_icons=true&locale=en" alt="majd02" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=majd02&show_icons=true&locale=en" alt="majd02" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=majd02&" alt="majd01" /></p>
 
